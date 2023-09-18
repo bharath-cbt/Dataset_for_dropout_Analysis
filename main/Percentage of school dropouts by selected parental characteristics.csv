@@ -1,0 +1,27 @@
+Factors,Categories,Percent,No. of Children
+Education of Parents,Both are illiterates,17.1,22857
+,Both are literate,4.6,27000
+,Mother is illiterate,12.1,3636
+,Father is illiterate,12.5,35680
+Mother's Education,No education,14.4,49963
+,Primary,9.6,14265
+,Secondary,3.3,21968
+,Higher,0.7,3137
+Father's Education,No education,16.5,25872
+,Primary,13.9,16343
+,Secondary,6.6,38402
+,Higher,1.5,7939
+Working status of Parents,Father is working,8.5,39681
+,Mother is working,19.7,515
+,Both are working,13.2,41802
+,Both are not working,17.5,763
+Father's Occupation,Not working,18.5,1314
+,Agriculture work,12.7,30666
+,Non-agriculture work,9.1,57122
+Mother's Occupation,Housewife,8.1,43834
+,Agricultural work,12.8,29008
+,Non-agriculture work,12.5,16455
+Mother?s Exposure to mass media,No Exposure,13.8,25880
+,Partial Exposure,9.2,51987
+,Full Exposure,3.9,11438
+Total,,13.2,89333

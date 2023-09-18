@@ -1,0 +1,44 @@
+Column1,Column3,Column5
+,Predictors,Exp(B)
+Religion:,Hindu®,
+,Muslim,1.60^{*}
+,Others,0.95
+Caste:, Scheduled Caste®Scheduled Tribe,0.89^{*}
+,OBC,0.87^{*}
+,None of the above,0.82^{*}
+Place of residence:,Rural®,
+,Urban,1.33^{*}
+Household Size:,"1 to 4 members®
+5 to 8 members
+9 and above","0.56^{*}
+0.50^{*}"
+No. of Living Children:,1-2 children,
+,3 to 5 children,2.28^{*}
+,6 and above,3.28^{*}
+Sex of Household Head :,Male®,
+,Female,0.94
+Agricultural Land:,No Land®,
+,less than 1 hectare,0.83^{*}
+,1 to 5 hectares,1.00
+,5 + hectares,0.85
+"Standard of Living Index: Low®
+Medium",,0.97
+,High,0.67^{*}
+Couples Education :,"Both are illiterate®
+Mother is illiterate
+Father is illiterate
+Both are literate","0.73^{*}
+0.72^{*}
+0.37^{*}"
+Parents Occupation:,"Both not working®
+Mother is working
+Father is working
+Both are working","1.97^{*}
+2.07^{*}
+1.35^{*}"
+Mother’s Media Exposure :,No exposure®,
+,Partial Exposure,1.01
+,Full exposure,0.67^{*}
+Constant,,0.14
+-2 Log likelihood,,42949.9
+R Square,,0.098
